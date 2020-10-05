@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-theme-lavender",
+  "name": "nodebb-theme-lavender-mytheme",
   "version": "5.0.13",
   "description": "Lavender Theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender"
+    "url": "https://github.com/epkim/nodebb-theme-lavender"
   },
   "keywords": [
     "nodebb",
